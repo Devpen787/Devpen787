@@ -1,6 +1,6 @@
 # Dev
 
-I’ve led adtech teams and global product programs. These days, I spend more time building.
+These days, I spend more time building.
 
 Here’s what I’ve been making, through hackathons, research and smaller experiments.
 
